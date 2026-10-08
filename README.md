@@ -1,6 +1,6 @@
 # Probability events and textual order in a sentence-processing benchmark
 
-This repository contains original verification code for the accompanying finite benchmark audit. It reconstructs two released surprisal columns, checks the identity of preceding words, reconstructs four eye-time aggregates, and evaluates first-fixation and first-pass prediction. A crossed position/predecessor comparison separates changes in complete-model error from changes in the incremental value of current and preceding surprisal against matched covariate-only references. All adverse content-word and partition comparisons are retained.
+This repository contains original verification code for the accompanying finite benchmark audit. It reconstructs two released surprisal columns, checks the identity of preceding words, reconstructs four eye-time aggregates, and evaluates first-fixation and first-pass prediction. A crossed position/predecessor comparison separates changes in complete-model error from changes in the incremental value of current and preceding surprisal against matched covariate-only references. All adverse content-word and partition comparisons are retained. **CITATION.cff omitted for peer review.**
 
 **Raw data, source scripts, reference full texts and model weights are not included.** Full reproduction depends on separately authorized access to the exact inputs below. A synthetic test pass does not reproduce the empirical findings. No public software license or hosted release has been authorized for this local package.
 
